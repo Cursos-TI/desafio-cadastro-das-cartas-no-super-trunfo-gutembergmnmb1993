@@ -18,5 +18,16 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+
+    int cod_cidade, qtd_pt_turistico;
+    char nome [20];
+    float populacao, area, pib;
+
+    printf("digite o nome da cidae: ");
+
+
+
+
+
     return 0;
 }
