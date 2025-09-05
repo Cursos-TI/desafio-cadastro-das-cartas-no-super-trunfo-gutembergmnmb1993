@@ -23,7 +23,7 @@ int main() {
     char nome [20];
     float populacao, area, pib;
 
-    printf("digite o nome da cidae: ");
+    printf("digite o nome da cidade : ");
 
 
 
