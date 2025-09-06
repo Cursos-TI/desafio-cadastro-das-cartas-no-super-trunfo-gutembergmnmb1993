@@ -27,7 +27,7 @@ float pib;
 printf("digite a apopulação:");  
 scanf("%d", &populacao);
 printf("apopulação digitada foi %d", populacao);
-
+printf("apopulação digitada foi %d", populacao);
 
 
 
