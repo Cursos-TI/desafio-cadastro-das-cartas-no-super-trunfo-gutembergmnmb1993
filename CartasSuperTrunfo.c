@@ -24,7 +24,7 @@ int numero_pontos_turisticos;
 float area;
 float pib;
 
-printf("digite a apopulação:");
+printf("digite a apopulação:"); 
 scanf("%d", &populacao);
 printf("apopulação digitada foi %d", populacao);
 
