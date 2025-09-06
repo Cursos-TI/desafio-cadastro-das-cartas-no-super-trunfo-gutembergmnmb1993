@@ -19,11 +19,14 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
 
-    int cod_cidade, qtd_pt_turistico;
-    char nome [20];
-    float populacao, area, pib;
+int populacao;
+int numero_pontos_turisticos;
+float area;
+float pib;
 
-    printf("digite o nome da cidade : ");
+printf("digite a apopulação:");
+scanf("%d", &populacao);
+printf("apopulação digitada foi %d", populacao);
 
 
 
