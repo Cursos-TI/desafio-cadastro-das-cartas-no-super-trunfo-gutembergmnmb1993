@@ -13,7 +13,7 @@ int main() {
     //Carta1
 
     printf("Digite o estado (duas letras): ");
-    scanf(" %s", &estado); //salvo na variavel estado
+    scanf(" %s", &estado); 
     printf("O estado digitado foi: %s\n", estado);
     
     printf("digite o codigo da carta:");
